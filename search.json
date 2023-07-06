@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test_nbdev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation. it’s also the homepage"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "test_nbdev",
+    "section": "Install",
+    "text": "Install\npip install test_nbdev"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "test_nbdev",
+    "section": "How to use",
+    "text": "How to use\nThis lib creates a booger class"
+  },
+  {
+    "objectID": "card.html",
+    "href": "card.html",
+    "title": "card",
+    "section": "",
+    "text": "source"
+  },
+  {
+    "objectID": "card.html#this-is-a-second-level-heading",
+    "href": "card.html#this-is-a-second-level-heading",
+    "title": "card",
+    "section": "This is a second level heading",
+    "text": "This is a second level heading\nShould show up in the index. Now using showdoc for other libraries not defined in the notebook\n\n\nprint\nPrints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream."
+  }
+]
