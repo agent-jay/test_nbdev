@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_nbdev"
+  site-url: "https://agent-jay.github.io/test_nbdev"
+  description: "A description that this nbdev stuff needs me to add"
+  repo-branch: main
+  repo-url: "https://github.com/agent-jay/test_nbdev"
