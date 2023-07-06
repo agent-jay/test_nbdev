@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://agent-jay.github.io',
                 'git_url': 'https://github.com/agent-jay/test_nbdev',
                 'lib_path': 'test_nbdev'},
-  'syms': {'test_nbdev.core': {'test_nbdev.core.foo': ('core.html#foo', 'test_nbdev/core.py')}}}
+  'syms': { 'test_nbdev.card': { 'test_nbdev.card.Booger': ('card.html#booger', 'test_nbdev/card.py'),
+                                 'test_nbdev.card.Booger.__init__': ('card.html#booger.__init__', 'test_nbdev/card.py'),
+                                 'test_nbdev.card.Booger.__str__': ('card.html#booger.__str__', 'test_nbdev/card.py')},
+            'test_nbdev.core': {'test_nbdev.core.foo': ('core.html#foo', 'test_nbdev/core.py')}}}
